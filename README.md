@@ -9,13 +9,15 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanoza&title_color=FF1100&text_color=ffffff&icon_color=FF1100&bg_color=20232a&langs_count=8&layout=compact&border_color=FF1100&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
+  <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+    <img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanoza&title_color=FF1100&text_color=ffffff&icon_color=FF1100&bg_color=20232a&langs_count=8&layout=compact&border_color=FF1100&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+
+  <a href="https://leetcode.com/sawanoza/" title="LeetCode Profile">
+    <img height="160" align="right" src="https://leetcard.jacoblin.cool/sawanoza?theme=dark&font=Roboto&ext=heatmap" />
+  </a>
+</div>
 
 
 
