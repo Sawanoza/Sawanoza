@@ -7,7 +7,7 @@
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanoza&title_color=FF1100&text_color=ffffff&icon_color=FF1100&bg_color=20232a&langs_count=8&layout=compact&border_color=FF1100&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanoza&title_color=FF1100&text_color=ffffff&icon_color=FF1100&bg_color=20232a&langs_count=100&layout=compact&border_color=FF1100&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
   </a>
 </p>
 
